@@ -1,4 +1,5 @@
 #!/bin/bash
+
 set -e
 OS=$(uname -s | tr '[:upper:]' '[:lower:]')
 ARCH=$(uname -m)
